@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MatLab
+
+*.asv
+*.m~
+*.mat
+*.slxc
+
+# Simulink / Cache
+slprj/
+*.mex*
+*.mexmaci64
+*.mexw64
